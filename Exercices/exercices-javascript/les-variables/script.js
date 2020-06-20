@@ -11,5 +11,5 @@ console.log(siriusgroup [6]); / Excercice
 console.log(siriusgroup [0]);
 let student= [student "tshibangu"; "jeremie";45]; / Excercice 1.6
 console.log(student);
-console.log(student.fisrtName) / Exrcice 1.7
+console.log(student.fisrtName) / Exrcice 1.7;
 
