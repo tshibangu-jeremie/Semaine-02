@@ -13,3 +13,4 @@ let student= [student "tshibangu"; "jeremie";45]; / Excercice 1.6
 console.log(student);
 console.log(student.fisrtName) / Exrcice 1.7;
 
+// TESTE
